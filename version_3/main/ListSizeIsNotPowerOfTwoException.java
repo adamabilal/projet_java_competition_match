@@ -2,7 +2,7 @@ package main;
 
 public class ListSizeIsNotPowerOfTwoException extends Exception{
     /**
-     * @author traorea_sharfeldin
+     * @author traorea
      * 
 	 * 
 	 */

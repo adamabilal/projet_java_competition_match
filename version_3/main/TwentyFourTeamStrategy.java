@@ -1,6 +1,6 @@
 package main;
 /*
- * @author traorea_sharfeldin
+ * @author traorea
  */
 
 import java.util.ArrayList;

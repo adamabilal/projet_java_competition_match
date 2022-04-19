@@ -2,7 +2,7 @@ package main;
 
 
 /**
- * @author traorea_sharfeldin
+ * @author traorea
  *
  *
  */

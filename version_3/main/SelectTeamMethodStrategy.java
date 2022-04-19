@@ -9,7 +9,7 @@ import java.util.Map;
 import java.util.Random;
 
 /**
- * @author traorea_sharfeldin
+ * @author traorea
  *
  */
 public abstract class SelectTeamMethodStrategy {

@@ -14,7 +14,7 @@
 
 ## AUTHORS:
 
-  Adama TRAORÉ & Esam Sharfeldin
+  Adama TRAORÉ
 
 ## USER INSTRUCTIONS:
 

@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author traorea_sharfeldin
+ * @author traorea
  *
  */
 public class SixteenTeamStrategy extends SelectTeamMethodStrategy {

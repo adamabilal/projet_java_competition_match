@@ -1,7 +1,7 @@
 package main;
 
 /**
- * @author traorea sharfeldin
+ * @author traorea
  *
  */
 public class Competitor {

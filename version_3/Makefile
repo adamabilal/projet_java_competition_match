@@ -1,4 +1,4 @@
-author: Adama TRAORE Esam SHARFELDIN
+author: Adama TRAORE
 
 cls:
 		javac -encoding utf8 -d cls -cp cls -classpath junit-4.3.jar main/*.java util/*.java  test/*.java
